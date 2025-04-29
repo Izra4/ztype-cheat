@@ -33,3 +33,6 @@ const autoShootInterval = setInterval(() => {
         ig.game.shoot();
     }
 }, 100);
+```
+<br>
+You can also change the speed of it.
